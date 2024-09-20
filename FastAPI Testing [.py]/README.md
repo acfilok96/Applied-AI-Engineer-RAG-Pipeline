@@ -14,6 +14,9 @@ FastAPI Testing [.py]/
 
 Download the `FastAPI Testing [.py]` folder & open it in `Visual Studio Code` or any other IDEs. Open  `terminal` and run there.
 
+N.B.: During installation of libraries, the notification Building wheel for `llama-cpp-python (pyproject.toml)` should `done` as it allows to declare which build backend used and which other dependencies are needed to build for project.
+
+
 ## Set up API Keys 🔗
 
 Change the required API key inside the function of `functions.py` files by generating key accordingly
@@ -68,3 +71,4 @@ Change the required API key inside the function of `functions.py` files by gener
      Maintaining knowledge of current sales and promotions, policies regarding payment and exchanges, and security practices.
      This role allowed me to utilize my skills in leadership, communication, and sales strategy to drive business growth and achieve sales targets.
     ```
+    
