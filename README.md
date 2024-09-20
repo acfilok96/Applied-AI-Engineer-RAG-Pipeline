@@ -4,7 +4,7 @@
 
 This `repo` is divided into 3 parts. 
 
-Start in this sequence: `Notebook [.ipynb]` -> `FastAPI Testing [.py]` -> `Production Deployment [.py]`
+Start in this sequence: `Notebook [.ipynb] -> FastAPI Testing [.py] -> Production Deployment [.py]`
 
 
 
