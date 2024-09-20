@@ -2,6 +2,16 @@
 
 ## Overview
 
+This `repo` is divided into 3 parts
+
+**1. FastAPI Testing [.py]**: This is about testing the production code through `FastAPI`. Go through its [READ.md](https://github.com/acfilok96/Applied-AI-Engineer-RAG-Pipeline/blob/main/FastAPI%20Testing%20%5B.py%5D/README.md) file and follow
+the instruction.
+
+**2. Notebook [.ipynb]**: Here is the base code, compiled as notebook files on google colab. Go through its [READ.md](https://github.com/acfilok96/Applied-AI-Engineer-RAG-Pipeline/blob/main/Notebook%20%5B.ipynb%5D/README.md) file and follow
+the instruction.
+
+**3. Production Deployment [.py]**: This is the production code. Go through its [READ.md](https://github.com/acfilok96/Applied-AI-Engineer-RAG-Pipeline/blob/main/Production%20Deployment%20%5B.py%5D/README.md) file and follow the instruction.
+
 ```
 Applied-AI-Engineer-RAG-Pipeline/
           │
