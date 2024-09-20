@@ -1,1 +1,60 @@
-# Applied-AI-Engineer-RAG-Pipeline
+# Applied AI Engineer [RAG Pipeline]
+
+## Overview
+
+```
+Applied-AI-Engineer-RAG-Pipeline/
+          │
+          ├── FastAPI Testing [.py]/
+          │       │
+          │       ├── functions.py
+          │       ├── main.py
+          │       ├── meta-earnings.pdf
+          │       ├── README.md
+          │       └── requirements.txt
+          │
+          ├── Notebook [.ipynb]/
+          │       │
+          │       ├── 12587973.pdf
+          │       ├── RAG Pipeline : Process 1 - Without ReRanker.ipynb
+          │       ├── RAG Pipeline : Process 1.ipynb
+          │       ├── RAG Pipeline : Process 2 - Without ReRanker.ipynb
+          │       ├── RAG Pipeline : Process 2.ipynb
+          │       └── README.md
+          │
+          ├── Production Deployment [.py]/
+          │       │
+          │       ├── .streamlit/
+          │       │        └── config.toml
+          │       ├── imagefile/
+          │       │        ├── a7.png
+          │       │        └── img33-2.png
+          │       ├── avatars.py
+          │       ├── excuses.py
+          │       ├── functions.py
+          │       ├── header.py
+          │       ├── README.md
+          │       └── requirements.txt
+          │
+          ├── LICENSE
+          └── README.md
+```
+
+
+## Miscellaneous
+
+
+1. **Fork the Repository**
+
+   Click on the "Fork" button at the top right corner of the page to create a personal copy of the repository.
+
+2. **Clone the Repository**
+
+   Clone your forked repository to your local machine:
+   ```bash
+   git clone https://github.com/acfilok96/Applied-AI-Engineer-RAG-Pipeline.git
+   ```
+
+3. **Create a Pull Request**
+
+   Go to the original repository and create a pull request. Make sure to explain your changes and why they should be merged.
