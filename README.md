@@ -1,6 +1,6 @@
 # Applied AI Engineer [RAG Pipeline]
 
-## Demo Application:
+## Web Application:
 
 **Deployed for demo purpose on `Streamlit Cloud`**
 
