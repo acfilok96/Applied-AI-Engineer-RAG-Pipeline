@@ -2,7 +2,9 @@
 
 ## Demo Application:
 
-**Web Application [Deployed for Demo Purpose on `Streamlit Cloud` ]**: **[FlowChat](https://rag-pdf-blu-1-242.streamlit.app/)** 🔗
+**Deployed for Demo Purpose on `Streamlit Cloud` **
+
+**Web Application**: **[FlowChat](https://rag-pdf-blu-1-242.streamlit.app/)** 🔗
 
 ## Overview
 
