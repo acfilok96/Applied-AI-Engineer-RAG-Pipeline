@@ -1,5 +1,9 @@
 # Applied AI Engineer [RAG Pipeline]
 
+## Deployed for Demo Purpose on `Streamlit Cloud` 🔗:
+
+Web Application: **[FlowChat](https://rag-pdf-blu-1-242.streamlit.app/)** 🔗
+
 ## Overview
 
 This `repo` is divided into 3 parts. 
