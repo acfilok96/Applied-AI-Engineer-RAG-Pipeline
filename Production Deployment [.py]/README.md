@@ -66,8 +66,7 @@ Change the required API key inside the function of `functions.py` files by gener
 
 -  Click on the `Create app` and Attach the GitHub repo link at `Repository` position & root file name `header.py` at `Main file path` position.
 
-  
-![Screenshot (1529)](https://github.com/user-attachments/assets/8692ef2d-4783-4492-9a8d-ef1393e65676)
+![Screenshot (1529)](https://github.com/user-attachments/assets/6525818f-df19-470c-a6e6-b679ea2a1b8e)
 
 ## Deployed for Demo Purpose on `Streamlit Cloud` 🔗:
 
