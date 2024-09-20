@@ -2,7 +2,11 @@
 
 ## Overview
 
-This `repo` is divided into 3 parts. Start in this sequence: `Notebook [.ipynb]` -> `FastAPI Testing [.py]` -> `Production Deployment [.py]`
+This `repo` is divided into 3 parts. 
+
+Start in this sequence: `Notebook [.ipynb]` -> `FastAPI Testing [.py]` -> `Production Deployment [.py]`
+
+
 
 **1. Notebook [.ipynb]**: 
 
