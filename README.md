@@ -19,6 +19,7 @@ the instruction.
 This is the production code. Go through its [READ.md](https://github.com/acfilok96/Applied-AI-Engineer-RAG-Pipeline/blob/main/Production%20Deployment%20%5B.py%5D/README.md) file and follow the instruction.
 
 
+## Repo Outline
 
 ```
 Applied-AI-Engineer-RAG-Pipeline/
