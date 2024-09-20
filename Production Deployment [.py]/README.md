@@ -1,5 +1,10 @@
 # RAG Pipeline for Production
 
+## Deployed for Demo Purpose on `Streamlit Cloud` 🔗:
+
+Web Application: **[FlowChat](https://rag-pdf-blu-1-242.streamlit.app/)** 🔗
+
+
 ## `Production Deployment [.py]` Folder
 
 ```
