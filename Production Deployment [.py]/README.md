@@ -77,4 +77,6 @@ Change the required API key inside the function of `functions.py` files by gener
 
 Web Application: **[FlowChat](https://rag-pdf-blu-1-242.streamlit.app/)** 🔗
 
+N.B.: During installation of libraries, the notification Building wheel for `llama-cpp-python (pyproject.toml)` should `done` as it allows to declare which build backend used and which other dependencies are needed to build for project.
+
 
