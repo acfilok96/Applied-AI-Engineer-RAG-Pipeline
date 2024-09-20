@@ -4,7 +4,7 @@
 
 **Deployed for demo purpose on `Streamlit Cloud`**
 
-**🔗 Web Application**: **[FlowChat](https://rag-pdf-blu-1-242.streamlit.app/)** 
+**🔗 Web Application Link**: **[FlowChat](https://rag-pdf-blu-1-242.streamlit.app/)** 
 
 ## Overview
 
