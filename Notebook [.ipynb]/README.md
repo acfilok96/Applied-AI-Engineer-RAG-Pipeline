@@ -43,4 +43,5 @@ In this process, `with` `UnstructuredMarkdownLoader`, a tool within the LangChai
 #### **[RAG Pipeline - Process 2 [Without ReRanker].ipynb](https://github.com/acfilok96/Applied-AI-Engineer-RAG-Pipeline/blob/main/Notebook%20%5B.ipynb%5D/RAG%20Pipeline%20-%20Process%202%20%5BWithout%20ReRanker%5D.ipynb)** : 
 `With` `UnstructuredMarkdownLoader` a tool  designed to facilitate the loading of Markdown documents into a structured format suitable for downstream processing and `Without` `FlashRank`, a Python library to add re-ranking to your existing search & retrieval pipelines. It is based on SoTA cross-encoders, with gratitude to all the model owners that have been used.
 
+## Limitation
 N.B.: During installation of libraries, the notification Building wheel for `llama-cpp-python (pyproject.toml)` should `done` as it allows to declare which build backend used and which other dependencies are needed to build for project.
