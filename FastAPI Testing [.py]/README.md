@@ -14,6 +14,8 @@ FastAPI Testing [.py]/
 
 Download the `FastAPI Testing [.py]` folder & open it in `Visual Studio Code` or any other IDEs. Open  `terminal` and run there.
 
+## Limitation
+
 N.B.: During installation of libraries, the notification Building wheel for `llama-cpp-python (pyproject.toml)` should `done` as it allows to declare which build backend used and which other dependencies are needed to build for project.
 
 
